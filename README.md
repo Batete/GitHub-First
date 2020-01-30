@@ -1,2 +1,2 @@
-# GitHub-First
+# GitHub Final Project
 Coursera_Capstone.
